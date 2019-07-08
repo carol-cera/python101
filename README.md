@@ -1,2 +1,5 @@
-# python101
+# Python101
 Learn python
+## Lesson One
+- strings
+- numbers
