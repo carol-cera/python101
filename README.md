@@ -4,6 +4,9 @@ Learn python
 - strings
 - numbers
 - boolean
-- digits
+- digits *Binary
+         *Decimal
+         *Octo
+         *Hexadecimal
 
 
