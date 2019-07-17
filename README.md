@@ -4,4 +4,6 @@ Learn python
 - strings
 - numbers
 - boolean
+- digits
+
 
