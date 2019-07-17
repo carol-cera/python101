@@ -3,3 +3,5 @@ Learn python
 ## Lesson One
 - strings
 - numbers
+- boolean
+
